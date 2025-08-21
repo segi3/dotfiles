@@ -2,3 +2,4 @@
 notes/*
 !notes/bin/
 !notes/bin/**
+!notes/README.md
